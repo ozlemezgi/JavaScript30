@@ -7,3 +7,8 @@
 ![30DayJavaScriptChallenge](./Images/Day_1.png)
 
 Bugün geliştirdiğim uygulamada EventListener kullanarak klavye tuşlarına basıldığında ilgili sesin çalınmasını ve DOM manipülasyonunu kullanarak ilgili tuşları ve sesleri seçmeyi deneyimledim. 
+## Day 2
+
+![30DayJavaScriptChallenge](./Images/Day_2.png)
+
+İkinci günün challenge'ında setInterval fonksiyonu ile her saniye setDate fonksiyonunun çağrılması ve Date nesnesinin kullanımıyla saniye, dakika ve saat kollarının açılarının hesaplanmasını sağladık. Böylece güncel saat değerlerine göre alog saati dinamik hale getirmiş olduk.

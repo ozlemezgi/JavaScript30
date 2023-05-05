@@ -12,3 +12,9 @@ Bugün geliştirdiğim uygulamada EventListener kullanarak klavye tuşlarına ba
 ![30DayJavaScriptChallenge](./Images/Day_2.png)
 
 İkinci günün challenge'ında setInterval fonksiyonu ile her saniye setDate fonksiyonunun çağrılması ve Date nesnesinin kullanımıyla saniye, dakika ve saat kollarının açılarının hesaplanmasını sağladık. Böylece güncel saat değerlerine göre alog saati dinamik hale getirmiş olduk.
+
+## Day 3
+
+![30DayJavaScriptChallenge](./Images/Day_3.png)
+
+DOM elamanına sonradan ekleyebildiğimiz data-sizing  attribute'unu javascript kullanarak kullanıncının istediği değere göre ayarlamasına olanak sağlayan resmin blur,padding ve background özelliklerini değiştirebildiğimiz bir çalışma gerçekleştirdik.Bugun öğrendiğim önemli şeylerden biri DOM elamanlarını tutan arraylere göre çok daha kısıtlı işlevleri olan bir liste çeşidi olan NodeList oldu.

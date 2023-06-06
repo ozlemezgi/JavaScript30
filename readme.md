@@ -18,3 +18,14 @@ Bugün geliştirdiğim uygulamada EventListener kullanarak klavye tuşlarına ba
 ![30DayJavaScriptChallenge](./Images/Day_3.png)
 
 DOM elamanına sonradan ekleyebildiğimiz data-sizing  attribute'unu javascript kullanarak kullanıncının istediği değere göre ayarlamasına olanak sağlayan resmin blur,padding ve background özelliklerini değiştirebildiğimiz bir çalışma gerçekleştirdik.Bugun öğrendiğim önemli şeylerden biri DOM elamanlarını tutan arraylere göre çok daha kısıtlı işlevleri olan bir liste çeşidi olan NodeList oldu.
+
+## Day 4
+
+
+Array cardio günü ...
+
+## Day 5
+
+![30DayJavaScriptChallenge](./Images/Day_5.png)
+
+Resmin üzerine tıklandığında ilgili resmin büyümesini ve css'in transform özelliğinden yararlanarak ekranda gözükmeyen yazıların efekt ile ekrana gelmesini sağlayan bir web uygulaması geliştirdik.JavaScript kullanarak kullanıcı etkileşimlerinin dinlenmesi ve gerektiğinde ilgili sınıfların eklenip çıkarılmasını sağladık.

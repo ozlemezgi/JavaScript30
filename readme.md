@@ -21,7 +21,6 @@ DOM elamanına sonradan ekleyebildiğimiz data-sizing  attribute'unu javascript 
 
 ## Day 4
 
-
 Array cardio günü ...
 
 ## Day 5
@@ -29,3 +28,9 @@ Array cardio günü ...
 ![30DayJavaScriptChallenge](./Images/Day_5.png)
 
 Resmin üzerine tıklandığında ilgili resmin büyümesini ve css'in transform özelliğinden yararlanarak ekranda gözükmeyen yazıların efekt ile ekrana gelmesini sağlayan bir web uygulaması geliştirdik.JavaScript kullanarak kullanıcı etkileşimlerinin dinlenmesi ve gerektiğinde ilgili sınıfların eklenip çıkarılmasını sağladık.
+
+## Day 6
+
+![30DayJavaScriptChallenge](./Images/Day_6.png)
+
+Kullanıcının yazdığı kelimeye göre API'de bulunan şehirleri ve eyaletleri filtreleyebildiğimiz bir şehir arama ara yüzü geliştirdik.Burada verileri API'den çekebilmek için fetch fonksiyonunu kullandık .

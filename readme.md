@@ -38,3 +38,9 @@ Kullanıcının yazdığı kelimeye göre API'de bulunan şehirleri ve eyaletler
 ## Day 7
 
 Array cardio günü ...
+
+## Day 8
+
+![30DayJavaScriptChallenge](./Images/Day_8.png)
+
+HTML5'in canvas tagini kullanarak mouse'un hareketlerini addEventListener kullanarak dinleyerek çizim yapabileceğimiz bir web uygulaması geliştirdik.

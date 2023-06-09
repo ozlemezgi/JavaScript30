@@ -33,4 +33,8 @@ Resmin üzerine tıklandığında ilgili resmin büyümesini ve css'in transform
 
 ![30DayJavaScriptChallenge](./Images/Day_6.png)
 
-Kullanıcının yazdığı kelimeye göre API'de bulunan şehirleri ve eyaletleri filtreleyebildiğimiz bir şehir arama ara yüzü geliştirdik.Burada verileri API'den çekebilmek için fetch fonksiyonunu kullandık .
+Kullanıcının yazdığı kelimeye göre API'de bulunan şehirleri ve eyaletleri filtreleyebildiğimiz bir şehir arama ara yüzü geliştirdik.Burada verileri API'den çekebilmek için fetch fonksiyonunu kullandık .Bugün temel şeylerden biri RegExp ile kullanılan "gi" ifadesi oldu .Burada "g"(global) ifadeyle eşleşen bütün verilerin bulunmasını sağladığını "i"(ignore case) büyük küçük harf duyarlılığını devre dışı bırakmak için kullanıldığını öğrendim.
+
+## Day 7
+
+Array cardio günü ...

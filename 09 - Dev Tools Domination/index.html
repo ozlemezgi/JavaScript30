@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+  <link rel="icon" href="https://fav.farm/🔥" />
+</head>
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log("hello");
+
+    // Interpolated
+    console.log("Hello I am a %s string!","good");
+
+    // Styled
+    console.log("%c I am a great text","font-size:25px; text-shadow:10px 10px 0 blue; background:red;");
+
+    // warning!
+    console.warn("OH NOO");
+
+    // Error :|
+    console.error("OH NOO!!");
+    // Info
+    console.info("This is an info");
+
+    // Testing(sadece false olduğunda konsolda gözükür)
+    const p =document.querySelector("p")
+     console.assert(p.classList.contains("ouch"),"That is wrong!")
+    console.assert(1===2,"You did not select the right element!")
+
+    // clearing
+    console.clear();
+
+    // Viewing DOM Elements
+    console.log(p);
+    console.dir(p);//for properties
+
+    // Grouping together
+    //Hugo ve Snickers adında iki grup yapar
+    dogs.forEach(dog=>{
+      console.group(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age} years old`);
+      console.log(`${dog.name} is ${dog.age*7} dog years old`);
+      console.groupEnd(`${dog.name}`);
+    })
+
+    // counting
+    console.count("Wes")
+     console.count("Wes")
+      console.count("Wes")
+       console.count("Ezgi")
+        console.count("Wes")
+         console.count("Wes")
+          console.count("Ezgi")
+
+    // timing
+    console.time("fetching data")
+    fetch("https://api.github.com/users/ozlemezgi")
+    .then(data=>data.json())
+    .then(data=>{
+      console.timeEnd("fetching data");
+      console.log(data);
+    })
+    
+    //table
+    console.table(dogs)
+
+
+
+  </script>
+</body>
+</html>

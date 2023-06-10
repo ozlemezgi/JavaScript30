@@ -44,3 +44,7 @@ Array cardio günü ...
 ![30DayJavaScriptChallenge](./Images/Day_8.png)
 
 HTML5'in canvas tagini kullanarak mouse'un hareketlerini addEventListener kullanarak dinleyerek çizim yapabileceğimiz bir web uygulaması geliştirdik.
+
+## Day 9
+
+Console.log dışında consolda kullanabileceğim özellikleri deneyimledim.

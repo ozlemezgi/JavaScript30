@@ -48,3 +48,9 @@ HTML5'in canvas tagini kullanarak mouse'un hareketlerini addEventListener kullan
 ## Day 9
 
 Console.log dışında consolda kullanabileceğim özellikleri deneyimledim.
+
+## Day 10
+
+![30DayJavaScriptChallenge](./Images/Day_10.png)
+
+Shift tuşuna basılması ile seçili olan ifadelerin arasındaki ifadelerin otomatik olarak seçildiği basit bir mailbox örneği geliştirdik.

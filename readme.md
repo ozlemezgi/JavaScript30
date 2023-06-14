@@ -54,3 +54,9 @@ Console.log dışında consolda kullanabileceğim özellikleri deneyimledim.
 ![30DayJavaScriptChallenge](./Images/Day_10.png)
 
 Shift tuşuna basılması ile seçili olan ifadelerin arasındaki ifadelerin otomatik olarak seçildiği basit bir mailbox örneği geliştirdik.
+
+## Day 11
+
+![30DayJavaScriptChallenge](./Images/Day_11.png)
+
+Bugun bir videonun öğeleri olan ilerleme barı , ses seviyesi barı ,hız barı ,ileri-geri sarma butonları ,ve videoyu oynarıp durdurma butonlarını JavaScript kullanarak nasıl yönetebileceğimizi öğrendiğimiz bir video izleme arayüzü ile çalıştık.

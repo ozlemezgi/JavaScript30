@@ -62,5 +62,5 @@ Shift tuşuna basılması ile seçili olan ifadelerin arasındaki ifadelerin oto
 Bugun bir videonun öğeleri olan ilerleme barı , ses seviyesi barı ,hız barı ,ileri-geri sarma butonları ,ve videoyu oynarıp durdurma butonlarını JavaScript kullanarak nasıl yönetebileceğimizi öğrendiğimiz bir video izleme arayüzü ile çalıştık.
 
 ## Day 12
-
+![30DayJavaScriptChallenge](./Images/Day_12.png)
 Klavyede ezgi yazıldığında ekranda bir görüntü gözükmesini sağlayan bir hile kodu yazdık(Konami Kod)
